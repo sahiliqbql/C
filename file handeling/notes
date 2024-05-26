@@ -1,0 +1,7 @@
+operations of dynamic allocation
+
+1) memory allocation - malloc(), calloc()
+
+2) memory re-allocation - realloc()
+
+3) memory deallocation - free()
